@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ürün Detayı - Birlik Oyuncak</title>
+    <!-- Veritabanı dosyamızı çağırıyoruz -->
+    <script src="urunler.js"></script>
+    <script>
+        // Tarayıcı hafızasında (Yönetim Panelinden) eklenen yeni ürünler varsa veritabanını güncelliyoruz
+        const savedDB = localStorage.getItem('birlikOyuncakDB');
+        if (savedDB) {
+            window.urunlerVeritabani = JSON.parse(savedDB);
+        }
+    </script>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #f5f6f9;
+            color: #333;
+        }
+
+        /* Top Bar */
+        .top-bar {
+            background-color: #1a252f;
+            color: #fff;
+            padding: 8px 0;
+            font-size: 0.85rem;
+        }
+
+        .top-bar-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .top-bar a {
+            color: #ffca28;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        /* Header */
+        header {
+            background-color: #fff;
+            padding: 18px 0;
+            border-bottom: 1px solid #e0e0e0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.03);
+        }
+
+        .header-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 20px;
+        }
+
+        .logo a {
+            text-decoration: none;
+        }
+
+        .logo h1 {
+            color: #d32f2f;
+            font-size: 1.8rem;
+            font-weight: 800;
+        }
+
+        .logo span {
+            color: #1976d2;
+        }
+
+        /* Main Container */
+        .main-container {
+            max-width: 1200px;
+            margin: 30px auto;
+            padding: 0 15px;
+        }
+
+        /* Ürün Detay Konteyner */
+        .product-detail-box {
+            background: #fff;
+            border-radius: 8px;
+            border: 1px solid #e2e8f0;
+            padding: 35px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            align-items: center;
+        }
+
+        @media (max-width: 768px) {
+            .product-detail-box {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .product-image-container {
+            position: relative;
+        }
+
+        .product-big-image {
+            width: 100%;
+            height: 420px;
+            object-fit: cover;
+            border-radius: 8px;
+            background-color: #fafafa;
+            border: 1px solid #eee;
+        }
+
+        .badge-discount {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            background-color: #d32f2f;
+            color: white;
+            font-size: 0.85rem;
+            font-weight: bold;
+            padding: 6px 12px;
+            border-radius: 4px;
+        }
+
+        .product-info h2 {
+            font-size: 1.8rem;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            line-height: 1.3;
+        }
+
+        .info-list {
+            list-style: none;
+            margin-bottom: 25px;
+        }
+
+        .info-list li {
+            padding: 12px 0;
+            border-bottom: 1px solid #eee;
+            font-size: 0.95rem;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .info-list li span:first-child {
+            font-weight: 600;
+            color: #666;
+        }
+
+        .info-list li span:last-child {
+            font-weight: 700;
+            color: #222;
+        }
+
+        /* Fiyat ve Açıklama Alanı Tasarımı */
+        .product-price-box {
+            margin-bottom: 25px;
+            background: #fdf2f2;
+            border: 1px solid #f5c6cb;
+            padding: 15px 20px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .price-label {
+            font-size: 0.9rem;
+            color: #721c24;
+            font-weight: 600;
+        }
+
+        .price-values {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .old-price {
+            text-decoration: line-through;
+            color: #9e9e9e;
+            font-size: 1rem;
+        }
+
+        .current-price {
+            color: #d32f2f;
+            font-size: 1.8rem;
+            font-weight: bold;
+        }
+
+        .product-description {
+            margin-top: 30px;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            border: 1px solid #e2e8f0;
+        }
+
+        .product-description h3 {
+            margin-bottom: 12px;
+            color: #2c3e50;
+            font-size: 1.2rem;
+            border-bottom: 2px solid #f1f5f9;
+            padding-bottom: 8px;
+        }
+
+        .product-description p {
+            color: #555;
+            line-height: 1.6;
+            font-size: 1rem;
+        }
+
+        .error-box {
+            text-align: center;
+            padding: 50px;
+            background: #fff;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Top Bar -->
+    <div class="top-bar">
+        <div class="top-bar-container">
+            <span><a href="index.html" id="backCategoryLink">← Kategoriye Geri Dön</a> - Toptan ve Perakende Ürün Satış Sitemiz</span>
+            <span>Destek: <a href="tel:05555555555">0555 555 55 55</a></span>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <div class="logo">
+                <a href="index.html"><h1>JET<span>PAZARLAMA</span></h1></a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="main-container" id="contentArea">
+        <!-- Ürün Bilgileri Buraya JavaScript ile Yüklenecek -->
+    </div>
+
+    <script>
+        // URL'den id parametresini alıyoruz (Örn: urun-detay.html?id=1)
+        const urlParams = new URLSearchParams(window.location.search);
+        const urunId = urlParams.get('id');
+        const container = document.getElementById('contentArea');
+
+        // Veritabanından ürünü buluyoruz
+        const urun = urunlerVeritabani[urunId];
+
+        if (urun) {
+            // Sayfa başlığını ürün adı yapıyoruz
+            document.title = urun.baslik + " - Birlik Oyuncak";
+
+            // Geri dön linkini ürünün kendi kategorisine dinamik olarak bağlıyoruz
+            const backLink = document.getElementById('backCategoryLink');
+            if (backLink) {
+                backLink.href = `kategori.html?kategori=${encodeURIComponent(urun.kategori)}`;
+                backLink.innerText = `← ${urun.kategori} Kategorisine Dön`;
+            }
+
+            // HTML içeriğini dinamik olarak dolduruyoruz
+            container.innerHTML = `
+                <div class="product-detail-box">
+                    <div class="product-image-container">
+                        ${urun.indirim ? `<span class="badge-discount">${urun.indirim}</span>` : ''}
+                        <img src="${urun.resim}" class="product-big-image" alt="${urun.baslik}">
+                    </div>
+                    <div class="product-info">
+                        <h2>${urun.baslik}</h2>
+                        <ul class="info-list">
+                            <li><span>Kategori:</span> <span>${urun.kategori}</span></li>
+                            <li><span>Marka:</span> <span>${urun.marka}</span></li>
+                            <li><span>Stok Kodu:</span> <span>${urun.stokKodu}</span></li>
+                            <li><span>Barkod Kodu:</span> <span>${urun.barkodKodu}</span></li>
+                        </ul>
+                        <div class="product-price-box">
+                            <span class="price-label">Güncel Satış Fiyatı</span>
+                            <div class="price-values">
+                                ${urun.eskiFiyat ? `<span class="old-price">${urun.eskiFiyat}</span>` : ''}
+                                <span class="current-price">${urun.fiyat}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-description">
+                    <h3>Ürün Açıklaması ve Detayları</h3>
+                    <p>${urun.aciklama}</p>
+                </div>
+            `;
+        } else {
+            container.innerHTML = `
+                <div class="error-box">
+                    <h2>Aradığınız ürün bulunamadı!</h2>
+                    <p style="margin-top:15px;"><a href="index.html" style="color:#1976d2; text-decoration:none; font-weight:bold;">Ana Sayfaya Dön</a></p>
+                </div>
+            `;
+        }
+    </script>
+</body>
+</html>
