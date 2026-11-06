@@ -417,7 +417,7 @@ const urunlerVeritabani = {
     },
     "33": {
         "baslik": "Profesyonel Koşu Bandı",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "SportFit",
         "stokKodu": "SPR-301",
         "barkodKodu": "868300000301",
@@ -430,7 +430,7 @@ const urunlerVeritabani = {
     },
     "34": {
         "baslik": "Ayarlanabilir Dumbbell Seti",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "SportFit",
         "stokKodu": "SPR-302",
         "barkodKodu": "868300000302",
@@ -443,7 +443,7 @@ const urunlerVeritabani = {
     },
     "35": {
         "baslik": "Pilates Matı Kalın 15mm",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "YogaLife",
         "stokKodu": "SPR-303",
         "barkodKodu": "868300000303",
@@ -456,7 +456,7 @@ const urunlerVeritabani = {
     },
     "36": {
         "baslik": "Kamp Çadırı 3 Kişilik",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "NatureCamp",
         "stokKodu": "SPR-304",
         "barkodKodu": "868300000304",
@@ -469,7 +469,7 @@ const urunlerVeritabani = {
     },
     "37": {
         "baslik": "Kamp Uyku Tulumu",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "NatureCamp",
         "stokKodu": "SPR-305",
         "barkodKodu": "868300000305",
@@ -482,7 +482,7 @@ const urunlerVeritabani = {
     },
     "38": {
         "baslik": "Kafa Lambası LED Şarjlı",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "NatureCamp",
         "stokKodu": "SPR-306",
         "barkodKodu": "868300000306",
@@ -495,7 +495,7 @@ const urunlerVeritabani = {
     },
     "39": {
         "baslik": "Direnç Bandı Seti 5li",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "SportFit",
         "stokKodu": "SPR-307",
         "barkodKodu": "868300000307",
@@ -508,7 +508,7 @@ const urunlerVeritabani = {
     },
     "40": {
         "baslik": "Çelik Matara 750ml",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "NatureCamp",
         "stokKodu": "SPR-308",
         "barkodKodu": "868300000308",
@@ -521,7 +521,7 @@ const urunlerVeritabani = {
     },
     "41": {
         "baslik": "Futbol Topu Maç Boyut",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "GoalMaster",
         "stokKodu": "SPR-309",
         "barkodKodu": "868300000309",
@@ -534,7 +534,7 @@ const urunlerVeritabani = {
     },
     "42": {
         "baslik": "Basketbol Topu No:7",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "GoalMaster",
         "stokKodu": "SPR-310",
         "barkodKodu": "868300000310",
@@ -547,7 +547,7 @@ const urunlerVeritabani = {
     },
     "43": {
         "baslik": "Tenis Raketi Profesyonel",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "SportFit",
         "stokKodu": "SPR-311",
         "barkodKodu": "868300000311",
@@ -560,7 +560,7 @@ const urunlerVeritabani = {
     },
     "44": {
         "baslik": "Boks Torbası Dolu 90cm",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "FightClub",
         "stokKodu": "SPR-312",
         "barkodKodu": "868300000312",
@@ -573,7 +573,7 @@ const urunlerVeritabani = {
     },
     "45": {
         "baslik": "Atlama İpi Ayarlanabilir",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "SportFit",
         "stokKodu": "SPR-313",
         "barkodKodu": "868300000313",
@@ -586,7 +586,7 @@ const urunlerVeritabani = {
     },
     "46": {
         "baslik": "Kamp Sırt Çantası 50 Litre",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "NatureCamp",
         "stokKodu": "SPR-314",
         "barkodKodu": "868300000314",
@@ -599,7 +599,7 @@ const urunlerVeritabani = {
     },
     "47": {
         "baslik": "Şişme Kamp Yatağı Tek Kişilik",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "NatureCamp",
         "stokKodu": "SPR-315",
         "barkodKodu": "868300000315",
@@ -612,7 +612,7 @@ const urunlerVeritabani = {
     },
     "48": {
         "baslik": "Katlanır Kamp Masası ve 2 Sandalye",
-        "kategori": "Spor ve Outdoor",
+        "kategori": "",
         "marka": "NatureCamp",
         "stokKodu": "SPR-316",
         "barkodKodu": "868300000316",
@@ -625,7 +625,7 @@ const urunlerVeritabani = {
     },
     "49": {
         "baslik": "Klasik Kesim Slim Fit Blazer Ceket",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "ModaStyle",
         "stokKodu": "GLM-401",
         "barkodKodu": "868400000401",
@@ -638,7 +638,7 @@ const urunlerVeritabani = {
     },
     "50": {
         "baslik": "Pamuklu Oversize Hoodie",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "UrbanWear",
         "stokKodu": "GLM-402",
         "barkodKodu": "868400000402",
@@ -651,7 +651,7 @@ const urunlerVeritabani = {
     },
     "51": {
         "baslik": "Yüksek Bel Skinny Jean",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "DenimCo",
         "stokKodu": "GLM-403",
         "barkodKodu": "868400000403",
@@ -664,7 +664,7 @@ const urunlerVeritabani = {
     },
     "52": {
         "baslik": "Hakiki Deri Klasik Ayakkabı",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "ModaStyle",
         "stokKodu": "GLM-404",
         "barkodKodu": "868400000404",
@@ -677,7 +677,7 @@ const urunlerVeritabani = {
     },
     "53": {
         "baslik": "Günlük Sneaker Spor Ayakkabı",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "UrbanWear",
         "stokKodu": "GLM-405",
         "barkodKodu": "868400000405",
@@ -690,7 +690,7 @@ const urunlerVeritabani = {
     },
     "54": {
         "baslik": "Kışlık Şişme Mont",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "WarmLine",
         "stokKodu": "GLM-406",
         "barkodKodu": "868400000406",
@@ -703,7 +703,7 @@ const urunlerVeritabani = {
     },
     "55": {
         "baslik": "Kadın Kol Çantası Deri",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "ElegantBag",
         "stokKodu": "GLM-407",
         "barkodKodu": "868400000407",
@@ -716,7 +716,7 @@ const urunlerVeritabani = {
     },
     "56": {
         "baslik": "Erkek Deri Cüzdan ve Kemer Seti",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "ModaStyle",
         "stokKodu": "GLM-408",
         "barkodKodu": "868400000408",
@@ -729,7 +729,7 @@ const urunlerVeritabani = {
     },
     "57": {
         "baslik": "Unisex Güneş Gözlüğü UV400",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "SunOptics",
         "stokKodu": "GLM-409",
         "barkodKodu": "868400000409",
@@ -742,7 +742,7 @@ const urunlerVeritabani = {
     },
     "58": {
         "baslik": "Triko Balıkçı Yaka Kazak",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "WarmLine",
         "stokKodu": "GLM-410",
         "barkodKodu": "868400000410",
@@ -755,7 +755,7 @@ const urunlerVeritabani = {
     },
     "59": {
         "baslik": "Sporcu Taytı Yüksek Bel",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "SportFit",
         "stokKodu": "GLM-411",
         "barkodKodu": "868400000411",
@@ -768,7 +768,7 @@ const urunlerVeritabani = {
     },
     "60": {
         "baslik": "Keten Yazlık Gömlek",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "ModaStyle",
         "stokKodu": "GLM-412",
         "barkodKodu": "868400000412",
@@ -781,7 +781,7 @@ const urunlerVeritabani = {
     },
     "61": {
         "baslik": "İpek Dokulu Boyun Eşarbı",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "ElegantBag",
         "stokKodu": "GLM-413",
         "barkodKodu": "868400000413",
@@ -794,7 +794,7 @@ const urunlerVeritabani = {
     },
     "62": {
         "baslik": "Kargo Cepli Pantolon",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "UrbanWear",
         "stokKodu": "GLM-414",
         "barkodKodu": "868400000414",
@@ -807,7 +807,7 @@ const urunlerVeritabani = {
     },
     "63": {
         "baslik": "Yünlü Kışlık Bere ve Atkı Seti",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "WarmLine",
         "stokKodu": "GLM-415",
         "barkodKodu": "868400000415",
@@ -820,7 +820,7 @@ const urunlerVeritabani = {
     },
     "64": {
         "baslik": "Pijama Takımı Pamuklu",
-        "kategori": "Giyim ve Moda",
+        "kategori": "",
         "marka": "SleepWell",
         "stokKodu": "GLM-416",
         "barkodKodu": "868400000416",
@@ -833,7 +833,7 @@ const urunlerVeritabani = {
     },
     "65": {
         "baslik": "Deri Kapaklı Günlük Ajanda",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "PenCraft",
         "stokKodu": "KTP-501",
         "barkodKodu": "868500000501",
@@ -846,7 +846,7 @@ const urunlerVeritabani = {
     },
     "66": {
         "baslik": "Dolma Kalem Metal Gövde",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "PenCraft",
         "stokKodu": "KTP-502",
         "barkodKodu": "868500000502",
@@ -859,7 +859,7 @@ const urunlerVeritabani = {
     },
     "67": {
         "baslik": "Akrilik Boya Seti 12li",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "ArtColor",
         "stokKodu": "KTP-503",
         "barkodKodu": "868500000503",
@@ -872,7 +872,7 @@ const urunlerVeritabani = {
     },
     "68": {
         "baslik": "Profesyonel Resim Tuvali 35x50",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "ArtColor",
         "stokKodu": "KTP-504",
         "barkodKodu": "868500000504",
@@ -885,7 +885,7 @@ const urunlerVeritabani = {
     },
     "69": {
         "baslik": "Masaüstü Kalemlik Düzenleyici",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "OfficeComfort",
         "stokKodu": "KTP-505",
         "barkodKodu": "868500000505",
@@ -898,7 +898,7 @@ const urunlerVeritabani = {
     },
     "70": {
         "baslik": "Klasik Roman Seti (3lü Kitap)",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "GlobalYayın",
         "stokKodu": "KTP-506",
         "barkodKodu": "868500000506",
@@ -911,7 +911,7 @@ const urunlerVeritabani = {
     },
     "71": {
         "baslik": "Çizim Defteri Kalın Yaprak",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "ArtColor",
         "stokKodu": "KTP-507",
         "barkodKodu": "868500000507",
@@ -924,7 +924,7 @@ const urunlerVeritabani = {
     },
     "72": {
         "baslik": "Kurşun Kalem Seti 12li B Seti",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "PenCraft",
         "stokKodu": "KTP-508",
         "barkodKodu": "868500000508",
@@ -937,7 +937,7 @@ const urunlerVeritabani = {
     },
     "73": {
         "baslik": "Masa Lambası LED Göz Korumalı",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "LightDesign",
         "stokKodu": "KTP-509",
         "barkodKodu": "868500000509",
@@ -950,7 +950,7 @@ const urunlerVeritabani = {
     },
     "74": {
         "baslik": "Renkli İşaretleyici Fosforlu Kalem 6lı",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "PenCraft",
         "stokKodu": "KTP-510",
         "barkodKodu": "868500000510",
@@ -963,7 +963,7 @@ const urunlerVeritabani = {
     },
     "75": {
         "baslik": "Sırtlıklı Okul ve Çalışma Çantası",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "UrbanWear",
         "stokKodu": "KTP-511",
         "barkodKodu": "868500000511",
@@ -976,7 +976,7 @@ const urunlerVeritabani = {
     },
     "76": {
         "baslik": "Zımba ve Delgeçe Seti Ofis",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "OfficeComfort",
         "stokKodu": "KTP-512",
         "barkodKodu": "868500000512",
@@ -989,7 +989,7 @@ const urunlerVeritabani = {
     },
     "77": {
         "baslik": "Kuru Boya Kalemi Seti 24lü",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "ArtColor",
         "stokKodu": "KTP-513",
         "barkodKodu": "868500000513",
@@ -1002,7 +1002,7 @@ const urunlerVeritabani = {
     },
     "78": {
         "baslik": "Kişisel Gelişim Kitapları 2li Set",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "GlobalYayın",
         "stokKodu": "KTP-514",
         "barkodKodu": "868500000514",
@@ -1015,7 +1015,7 @@ const urunlerVeritabani = {
     },
     "79": {
         "baslik": "Mantar Pano 60x90",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "OfficeComfort",
         "stokKodu": "KTP-515",
         "barkodKodu": "868500000515",
@@ -1028,7 +1028,7 @@ const urunlerVeritabani = {
     },
     "80": {
         "baslik": "Yapışkanlı Not Kağıdı Post-it Seti",
-        "kategori": "Kitap ve Kırtasiye",
+        "kategori": "",
         "marka": "PenCraft",
         "stokKodu": "KTP-516",
         "barkodKodu": "868500000516",
@@ -1251,16 +1251,10 @@ const urunlerVeritabani = {
 
 const bosKategorilerDB = {
     "Akıllı Cihazlar": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=300",
-    "Ev ve Yaşam": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=300",
-    "Spor ve Outdoor": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=300",
-    "Giyim ve Moda": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=300",
-    "Kitap ve Kırtasiye": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=300"
+    "Ev ve Yaşam": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=300"
 };
 
 const kategoriSirasiDB = [
     "Akıllı Cihazlar",
-    "Ev ve Yaşam",
-    "Spor ve Outdoor",
-    "Giyim ve Moda",
-    "Kitap ve Kırtasiye"
+    "Ev ve Yaşam"
 ];
