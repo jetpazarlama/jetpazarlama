@@ -1041,7 +1041,7 @@ const urunlerVeritabani = {
     },
     "81": {
         "baslik": "Uzaktan Kumandalı Yarış Arabası",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "Birlik Oyuncak",
         "stokKodu": "OYN-601",
         "barkodKodu": "868600000601",
@@ -1054,7 +1054,7 @@ const urunlerVeritabani = {
     },
     "82": {
         "baslik": "Eğitici Ahşap Zeka Bulmacası",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "WoodPlay",
         "stokKodu": "OYN-602",
         "barkodKodu": "868600000602",
@@ -1067,7 +1067,7 @@ const urunlerVeritabani = {
     },
     "83": {
         "baslik": "1000 Parça Yetişkin Puzzle",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "PuzzleArt",
         "stokKodu": "OYN-603",
         "barkodKodu": "868600000603",
@@ -1080,7 +1080,7 @@ const urunlerVeritabani = {
     },
     "84": {
         "baslik": "Mini Drone Kameralı",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "TechMaster",
         "stokKodu": "OYN-604",
         "barkodKodu": "868600000604",
@@ -1093,7 +1093,7 @@ const urunlerVeritabani = {
     },
     "85": {
         "baslik": "Kutu Oyunu Strateji ve Macera",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "Birlik Oyuncak",
         "stokKodu": "OYN-605",
         "barkodKodu": "868600000605",
@@ -1106,7 +1106,7 @@ const urunlerVeritabani = {
     },
     "86": {
         "baslik": "Peluş Sevimli Ayıcık 80cm",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "ToyWorld",
         "stokKodu": "OYN-606",
         "barkodKodu": "868600000606",
@@ -1119,7 +1119,7 @@ const urunlerVeritabani = {
     },
     "87": {
         "baslik": "Blok Yapım Oyuncak Seti",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "ToyWorld",
         "stokKodu": "OYN-607",
         "barkodKodu": "868600000607",
@@ -1132,7 +1132,7 @@ const urunlerVeritabani = {
     },
     "88": {
         "baslik": "Metal Model Araba Koleksiyonu",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "Birlik Oyuncak",
         "stokKodu": "OYN-608",
         "barkodKodu": "868600000608",
@@ -1145,7 +1145,7 @@ const urunlerVeritabani = {
     },
     "89": {
         "baslik": "Profesyonel Stres Çarkı Metal",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "Birlik Oyuncak",
         "stokKodu": "OYN-609",
         "barkodKodu": "868600000609",
@@ -1158,7 +1158,7 @@ const urunlerVeritabani = {
     },
     "90": {
         "baslik": "Akrobat Uzaktan Kumandalı Dublör Araba",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "Birlik Oyuncak",
         "stokKodu": "OYN-610",
         "barkodKodu": "868600000610",
@@ -1171,7 +1171,7 @@ const urunlerVeritabani = {
     },
     "91": {
         "baslik": "Manto ve Figür Oyun Seti",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "ToyWorld",
         "stokKodu": "OYN-611",
         "barkodKodu": "868600000611",
@@ -1184,7 +1184,7 @@ const urunlerVeritabani = {
     },
     "92": {
         "baslik": "Hobi Model Uçak Yapım Kiti",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "WoodPlay",
         "stokKodu": "OYN-612",
         "barkodKodu": "868600000612",
@@ -1197,7 +1197,7 @@ const urunlerVeritabani = {
     },
     "93": {
         "baslik": "Sihirli Sihirbazlık Seti",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "ToyWorld",
         "stokKodu": "OYN-613",
         "barkodKodu": "868600000613",
@@ -1210,7 +1210,7 @@ const urunlerVeritabani = {
     },
     "94": {
         "baslik": "Satranç ve Dama Takımı Ahşap",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "WoodPlay",
         "stokKodu": "OYN-614",
         "barkodKodu": "868600000614",
@@ -1223,7 +1223,7 @@ const urunlerVeritabani = {
     },
     "95": {
         "baslik": "Hızlı Bardaklar Refleks Oyunu",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "Birlik Oyuncak",
         "stokKodu": "OYN-615",
         "barkodKodu": "868600000615",
@@ -1236,7 +1236,7 @@ const urunlerVeritabani = {
     },
     "96": {
         "baslik": "Bubble Maker Baloncuk Tabancası",
-        "kategori": "Oyuncak ve Hobi",
+        "kategori": "",
         "marka": "ToyWorld",
         "stokKodu": "OYN-616",
         "barkodKodu": "868600000616",
@@ -1254,8 +1254,7 @@ const bosKategorilerDB = {
     "Ev ve Yaşam": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=300",
     "Spor ve Outdoor": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=300",
     "Giyim ve Moda": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=300",
-    "Kitap ve Kırtasiye": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=300",
-    "Oyuncak ve Hobi": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=300"
+    "Kitap ve Kırtasiye": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=300"
 };
 
 const kategoriSirasiDB = [
@@ -1263,6 +1262,5 @@ const kategoriSirasiDB = [
     "Ev ve Yaşam",
     "Spor ve Outdoor",
     "Giyim ve Moda",
-    "Kitap ve Kırtasiye",
-    "Oyuncak ve Hobi"
+    "Kitap ve Kırtasiye"
 ];
