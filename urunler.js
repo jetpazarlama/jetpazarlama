@@ -10,7 +10,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jrajvAZIa92Cw8fnLGqX4Rb8V1DvVVku-MrOtsUMPw&s=10",
         "aciklama": "asd",
-        "sira": 1
+        "sira": 2
     },
     "2": {
         "baslik": "125125",
@@ -23,7 +23,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jrajvAZIa92Cw8fnLGqX4Rb8V1DvVVku-MrOtsUMPw&s=10",
         "aciklama": "wsfa",
-        "sira": 2
+        "sira": 3
     },
     "3": {
         "baslik": "oooo",
@@ -36,7 +36,20 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jrajvAZIa92Cw8fnLGqX4Rb8V1DvVVku-MrOtsUMPw&s=10",
         "aciklama": "asd",
-        "sira": 3
+        "sira": 4
+    },
+    "4": {
+        "baslik": "oooo",
+        "kategori": "dener2son",
+        "marka": "Birlik Oyuncak",
+        "stokKodu": "BLK-999",
+        "barkodKodu": "868000000999",
+        "eskiFiyat": "",
+        "fiyat": "15",
+        "indirim": "",
+        "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jrajvAZIa92Cw8fnLGqX4Rb8V1DvVVku-MrOtsUMPw&s=10",
+        "aciklama": "asfasf",
+        "sira": 1
     }
 };
 
