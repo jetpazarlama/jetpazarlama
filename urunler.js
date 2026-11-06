@@ -1,7 +1,7 @@
 const urunlerVeritabani = {
     "1": {
         "baslik": "ur1",
-        "kategori": "kat1",
+        "kategori": "kat2",
         "marka": "Birlik Oyuncak",
         "stokKodu": "BLK-999",
         "barkodKodu": "868000000999",
