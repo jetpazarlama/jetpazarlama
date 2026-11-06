@@ -49,6 +49,19 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jrajvAZIa92Cw8fnLGqX4Rb8V1DvVVku-MrOtsUMPw&s=10",
         "aciklama": "asfasf",
+        "sira": 5
+    },
+    "5": {
+        "baslik": "ben1",
+        "kategori": "yılmaz",
+        "marka": "Birlik Oyuncak",
+        "stokKodu": "BLK-999",
+        "barkodKodu": "868000000999",
+        "eskiFiyat": "",
+        "fiyat": "125",
+        "indirim": "",
+        "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jrajvAZIa92Cw8fnLGqX4Rb8V1DvVVku-MrOtsUMPw&s=10",
+        "aciklama": "asgsg",
         "sira": 1
     }
 };
