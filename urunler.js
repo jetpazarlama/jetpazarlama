@@ -415,19 +415,6 @@ const urunlerVeritabani = {
         "aciklama": "Doğal soya mumundan aromaterapi mumları.",
         "sira": 32
     },
-    "33": {
-        "baslik": "Profesyonel Koşu Bandı",
-        "kategori": "",
-        "marka": "SportFit",
-        "stokKodu": "SPR-301",
-        "barkodKodu": "868300000301",
-        "eskiFiyat": "14000",
-        "fiyat": "11999",
-        "indirim": "%14",
-        "resim": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=300",
-        "aciklama": "Katlanabilir motorlu ev tipi koşu bandı.",
-        "sira": 33
-    },
     "34": {
         "baslik": "Ayarlanabilir Dumbbell Seti",
         "kategori": "",
@@ -439,7 +426,7 @@ const urunlerVeritabani = {
         "indirim": "%14",
         "resim": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=300",
         "aciklama": "Ev antrenmanları için ağırlık dambıl seti.",
-        "sira": 34
+        "sira": 33
     },
     "35": {
         "baslik": "Pilates Matı Kalın 15mm",
@@ -452,7 +439,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=300",
         "aciklama": "Kaydırmaz egzersiz ve yoga minderi.",
-        "sira": 35
+        "sira": 34
     },
     "36": {
         "baslik": "Kamp Çadırı 3 Kişilik",
@@ -465,7 +452,7 @@ const urunlerVeritabani = {
         "indirim": "%18",
         "resim": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=300",
         "aciklama": "Su geçirmez kolay kurulur kamp çadırı.",
-        "sira": 36
+        "sira": 35
     },
     "37": {
         "baslik": "Kamp Uyku Tulumu",
@@ -478,7 +465,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?w=300",
         "aciklama": "Soğuk hava geçirmez hafif uyku tulumu.",
-        "sira": 37
+        "sira": 36
     },
     "38": {
         "baslik": "Kafa Lambası LED Şarjlı",
@@ -491,7 +478,7 @@ const urunlerVeritabani = {
         "indirim": "%25",
         "resim": "https://images.unsplash.com/photo-1510312305653-8ed496efae75?w=300",
         "aciklama": "Kamp ve yürüyüş için yüksek güçlü kafa feneri.",
-        "sira": 38
+        "sira": 37
     },
     "39": {
         "baslik": "Direnç Bandı Seti 5li",
@@ -504,7 +491,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1598289431512-b97b09177c40?w=300",
         "aciklama": "Farklı direnç seviyelerinde fitness lastikleri.",
-        "sira": 39
+        "sira": 38
     },
     "40": {
         "baslik": "Çelik Matara 750ml",
@@ -517,7 +504,7 @@ const urunlerVeritabani = {
         "indirim": "%20",
         "resim": "https://images.unsplash.com/photo-1523362628745-0c100150b504?w=300",
         "aciklama": "Sporcu suluğu ve tırmanış matarası.",
-        "sira": 40
+        "sira": 39
     },
     "41": {
         "baslik": "Futbol Topu Maç Boyut",
@@ -530,7 +517,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1614632537452-94ec87b0f8b4?w=300",
         "aciklama": "FIFA standartlarında dayanıklı futbol topu.",
-        "sira": 41
+        "sira": 40
     },
     "42": {
         "baslik": "Basketbol Topu No:7",
@@ -543,7 +530,7 @@ const urunlerVeritabani = {
         "indirim": "%17",
         "resim": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=300",
         "aciklama": "Salon ve dış saha kullanımına uygun basketbol topu.",
-        "sira": 42
+        "sira": 41
     },
     "43": {
         "baslik": "Tenis Raketi Profesyonel",
@@ -556,7 +543,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1622163642998-1ea32b576389?w=300",
         "aciklama": "Hafif karbon fiber yapı tenis raketi.",
-        "sira": 43
+        "sira": 42
     },
     "44": {
         "baslik": "Boks Torbası Dolu 90cm",
@@ -569,7 +556,7 @@ const urunlerVeritabani = {
         "indirim": "%18",
         "resim": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?w=300",
         "aciklama": "Zincirli askı aparatlı antrenman boks torbası.",
-        "sira": 44
+        "sira": 43
     },
     "45": {
         "baslik": "Atlama İpi Ayarlanabilir",
@@ -582,7 +569,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=300",
         "aciklama": "Rulmanlı hız atlama ipi.",
-        "sira": 45
+        "sira": 44
     },
     "46": {
         "baslik": "Kamp Sırt Çantası 50 Litre",
@@ -595,7 +582,7 @@ const urunlerVeritabani = {
         "indirim": "%16",
         "resim": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300",
         "aciklama": "Ortopedik sırt destekli dağcı çantası.",
-        "sira": 46
+        "sira": 45
     },
     "47": {
         "baslik": "Şişme Kamp Yatağı Tek Kişilik",
@@ -608,7 +595,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1563298723-dcfebaa392e3?w=300",
         "aciklama": "Flok kaplı konforlu şişme yatak.",
-        "sira": 47
+        "sira": 46
     },
     "48": {
         "baslik": "Katlanır Kamp Masası ve 2 Sandalye",
@@ -621,7 +608,7 @@ const urunlerVeritabani = {
         "indirim": "%13",
         "resim": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=300",
         "aciklama": "Taşınabilir valiz tip kamp seti.",
-        "sira": 48
+        "sira": 47
     },
     "49": {
         "baslik": "Klasik Kesim Slim Fit Blazer Ceket",
@@ -634,7 +621,7 @@ const urunlerVeritabani = {
         "indirim": "%15",
         "resim": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=300",
         "aciklama": "Şık davetler ve günlük business kombinler için ceket.",
-        "sira": 49
+        "sira": 48
     },
     "50": {
         "baslik": "Pamuklu Oversize Hoodie",
@@ -647,7 +634,7 @@ const urunlerVeritabani = {
         "indirim": "%18",
         "resim": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=300",
         "aciklama": "Kapşonlu cepli rahat sweat.",
-        "sira": 50
+        "sira": 49
     },
     "51": {
         "baslik": "Yüksek Bel Skinny Jean",
@@ -660,7 +647,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=300",
         "aciklama": "Esnek kumaş kot pantolon.",
-        "sira": 51
+        "sira": 50
     },
     "52": {
         "baslik": "Hakiki Deri Klasik Ayakkabı",
@@ -673,7 +660,7 @@ const urunlerVeritabani = {
         "indirim": "%14",
         "resim": "https://images.unsplash.com/photo-1533867617858-e7d97e0afd8b?w=300",
         "aciklama": "El yapımı hakiki deri erkek ayakkabı.",
-        "sira": 52
+        "sira": 51
     },
     "53": {
         "baslik": "Günlük Sneaker Spor Ayakkabı",
@@ -686,7 +673,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300",
         "aciklama": "Hafif tabanlı rahat günlük sneaker.",
-        "sira": 53
+        "sira": 52
     },
     "54": {
         "baslik": "Kışlık Şişme Mont",
@@ -699,7 +686,7 @@ const urunlerVeritabani = {
         "indirim": "%17",
         "resim": "https://images.unsplash.com/photo-1544441893-675973e31985?w=300",
         "aciklama": "Su itici kumaş dolgulu kışlık mont.",
-        "sira": 54
+        "sira": 53
     },
     "55": {
         "baslik": "Kadın Kol Çantası Deri",
@@ -712,7 +699,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=300",
         "aciklama": "Şık omuz çantası günlük kullanım.",
-        "sira": 55
+        "sira": 54
     },
     "56": {
         "baslik": "Erkek Deri Cüzdan ve Kemer Seti",
@@ -725,7 +712,7 @@ const urunlerVeritabani = {
         "indirim": "%22",
         "resim": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=300",
         "aciklama": "Hediye kutulu hakiki deri cüzdan kemer kombin.",
-        "sira": 56
+        "sira": 55
     },
     "57": {
         "baslik": "Unisex Güneş Gözlüğü UV400",
@@ -738,7 +725,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=300",
         "aciklama": "Polarize cam güneşe dayanıklı çerçeve.",
-        "sira": 57
+        "sira": 56
     },
     "58": {
         "baslik": "Triko Balıkçı Yaka Kazak",
@@ -751,7 +738,7 @@ const urunlerVeritabani = {
         "indirim": "%16",
         "resim": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=300",
         "aciklama": "Yumuşak dokulu sıcak tutan kışlık kazak.",
-        "sira": 58
+        "sira": 57
     },
     "59": {
         "baslik": "Sporcu Taytı Yüksek Bel",
@@ -764,7 +751,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1506152983158-b4a74a01c721?w=300",
         "aciklama": "İç göstermeyen esnek fitness taytı.",
-        "sira": 59
+        "sira": 58
     },
     "60": {
         "baslik": "Keten Yazlık Gömlek",
@@ -777,7 +764,7 @@ const urunlerVeritabani = {
         "indirim": "%15",
         "resim": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=300",
         "aciklama": "Hafif ve nefes alabilir keten kumaş.",
-        "sira": 60
+        "sira": 59
     },
     "61": {
         "baslik": "İpek Dokulu Boyun Eşarbı",
@@ -790,7 +777,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?w=300",
         "aciklama": "Renkli desenli zarif aksesuar.",
-        "sira": 61
+        "sira": 60
     },
     "62": {
         "baslik": "Kargo Cepli Pantolon",
@@ -803,7 +790,7 @@ const urunlerVeritabani = {
         "indirim": "%15",
         "resim": "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?w=300",
         "aciklama": "Rahat kesim sokak modası kargo pantolon.",
-        "sira": 62
+        "sira": 61
     },
     "63": {
         "baslik": "Yünlü Kışlık Bere ve Atkı Seti",
@@ -816,7 +803,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=300",
         "aciklama": "Soğuk geçirmez yumuşak dokulu set.",
-        "sira": 63
+        "sira": 62
     },
     "64": {
         "baslik": "Pijama Takımı Pamuklu",
@@ -829,7 +816,7 @@ const urunlerVeritabani = {
         "indirim": "%16",
         "resim": "https://images.unsplash.com/photo-1584273143981-41c073dfe8f8?w=300",
         "aciklama": "Rahat ev giyimi gece pijama takımı.",
-        "sira": 64
+        "sira": 63
     },
     "65": {
         "baslik": "Deri Kapaklı Günlük Ajanda",
@@ -842,7 +829,7 @@ const urunlerVeritabani = {
         "indirim": "%22",
         "resim": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=300",
         "aciklama": "2026 yılı tarihsiz lüks ajanda defter.",
-        "sira": 65
+        "sira": 64
     },
     "66": {
         "baslik": "Dolma Kalem Metal Gövde",
@@ -855,7 +842,7 @@ const urunlerVeritabani = {
         "indirim": "%17",
         "resim": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=300",
         "aciklama": "İnce uçlu şık imza kalemi.",
-        "sira": 66
+        "sira": 65
     },
     "67": {
         "baslik": "Akrilik Boya Seti 12li",
@@ -868,7 +855,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=300",
         "aciklama": "Tuval ve ahşap boyama için canlı renkler.",
-        "sira": 67
+        "sira": 66
     },
     "68": {
         "baslik": "Profesyonel Resim Tuvali 35x50",
@@ -881,7 +868,7 @@ const urunlerVeritabani = {
         "indirim": "%20",
         "resim": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=300",
         "aciklama": "Pamuklu bez gerilmiş şase tuval.",
-        "sira": 68
+        "sira": 67
     },
     "69": {
         "baslik": "Masaüstü Kalemlik Düzenleyici",
@@ -894,7 +881,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1527525443983-6e60c75fff46?w=300",
         "aciklama": "Metal örgü çok gözlü masa düzenleyici.",
-        "sira": 69
+        "sira": 68
     },
     "70": {
         "baslik": "Klasik Roman Seti (3lü Kitap)",
@@ -907,7 +894,7 @@ const urunlerVeritabani = {
         "indirim": "%20",
         "resim": "https://images.unsplash.com/photo-1495640388908-05fa85288e61?w=300",
         "aciklama": "Dünya klasikleri özel seri kutulu kitaplar.",
-        "sira": 70
+        "sira": 69
     },
     "71": {
         "baslik": "Çizim Defteri Kalın Yaprak",
@@ -920,7 +907,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1516962215378-7fa2e137ae93?w=300",
         "aciklama": "160 gram yüksek kaliteli kroki defteri.",
-        "sira": 71
+        "sira": 70
     },
     "72": {
         "baslik": "Kurşun Kalem Seti 12li B Seti",
@@ -933,7 +920,7 @@ const urunlerVeritabani = {
         "indirim": "%20",
         "resim": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=300",
         "aciklama": "Resim ve çizim için dereceli kurşun kalemler.",
-        "sira": 72
+        "sira": 71
     },
     "73": {
         "baslik": "Masa Lambası LED Göz Korumalı",
@@ -946,7 +933,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1534349762230-e0cadfefcffc?w=300",
         "aciklama": "Dokunmatik kademeli ışık ayarlı çalışma lambası.",
-        "sira": 73
+        "sira": 72
     },
     "74": {
         "baslik": "Renkli İşaretleyici Fosforlu Kalem 6lı",
@@ -959,7 +946,7 @@ const urunlerVeritabani = {
         "indirim": "%25",
         "resim": "https://images.unsplash.com/photo-1569683795645-b62e50fbf103?w=300",
         "aciklama": "Pastel tonlarda fosforlu kalem seti.",
-        "sira": 74
+        "sira": 73
     },
     "75": {
         "baslik": "Sırtlıklı Okul ve Çalışma Çantası",
@@ -972,7 +959,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300",
         "aciklama": "Laptop bölmeli su geçirmez sırt çantası.",
-        "sira": 75
+        "sira": 74
     },
     "76": {
         "baslik": "Zımba ve Delgeçe Seti Ofis",
@@ -985,7 +972,7 @@ const urunlerVeritabani = {
         "indirim": "%20",
         "resim": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=300",
         "aciklama": "Mini zımba makinesi ve delgeç ofis seti.",
-        "sira": 76
+        "sira": 75
     },
     "77": {
         "baslik": "Kuru Boya Kalemi Seti 24lü",
@@ -998,7 +985,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=300",
         "aciklama": "Kırılmaz uçlu canlı renkler kuru boya.",
-        "sira": 77
+        "sira": 76
     },
     "78": {
         "baslik": "Kişisel Gelişim Kitapları 2li Set",
@@ -1011,7 +998,7 @@ const urunlerVeritabani = {
         "indirim": "%20",
         "resim": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=300",
         "aciklama": "Motivasyon ve başarı odaklı popüler eserler.",
-        "sira": 78
+        "sira": 77
     },
     "79": {
         "baslik": "Mantar Pano 60x90",
@@ -1024,7 +1011,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=300",
         "aciklama": "Ahşap çerçeveli not asma panosu.",
-        "sira": 79
+        "sira": 78
     },
     "80": {
         "baslik": "Yapışkanlı Not Kağıdı Post-it Seti",
@@ -1037,7 +1024,7 @@ const urunlerVeritabani = {
         "indirim": "%28",
         "resim": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?w=300",
         "aciklama": "Renkli yapışkanlı hatırlatıcı kağıtlar.",
-        "sira": 80
+        "sira": 79
     },
     "81": {
         "baslik": "Uzaktan Kumandalı Yarış Arabası",
@@ -1050,7 +1037,7 @@ const urunlerVeritabani = {
         "indirim": "%17",
         "resim": "https://images.unsplash.com/photo-1594787318286-3d835c1d204f?w=300",
         "aciklama": "Şarjlı bataryalı hızlı model araba.",
-        "sira": 81
+        "sira": 80
     },
     "82": {
         "baslik": "Eğitici Ahşap Zeka Bulmacası",
@@ -1063,7 +1050,7 @@ const urunlerVeritabani = {
         "indirim": "%20",
         "resim": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=300",
         "aciklama": "Çocuklar için geliştirici ahşap bloklar.",
-        "sira": 82
+        "sira": 81
     },
     "83": {
         "baslik": "1000 Parça Yetişkin Puzzle",
@@ -1076,7 +1063,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?w=300",
         "aciklama": "Manzara temalı yüksek kaliteli puzzle.",
-        "sira": 83
+        "sira": 82
     },
     "84": {
         "baslik": "Mini Drone Kameralı",
@@ -1089,7 +1076,7 @@ const urunlerVeritabani = {
         "indirim": "%17",
         "resim": "https://images.unsplash.com/photo-1507582022034-2e93540c5c4e?w=300",
         "aciklama": "Başlangıç seviyesi katlanabilir mini drone.",
-        "sira": 84
+        "sira": 83
     },
     "85": {
         "baslik": "Kutu Oyunu Strateji ve Macera",
@@ -1102,7 +1089,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?w=300",
         "aciklama": "Aile ve arkadaşlar için eğlenceli strateji oyunu.",
-        "sira": 85
+        "sira": 84
     },
     "86": {
         "baslik": "Peluş Sevimli Ayıcık 80cm",
@@ -1115,7 +1102,7 @@ const urunlerVeritabani = {
         "indirim": "%17",
         "resim": "https://images.unsplash.com/photo-1534732805561-fde59b084ddc?w=300",
         "aciklama": "Yumuşak dokulu dev boy peluş oyuncak.",
-        "sira": 86
+        "sira": 85
     },
     "87": {
         "baslik": "Blok Yapım Oyuncak Seti",
@@ -1128,7 +1115,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=300",
         "aciklama": "Yaratıcı şehir inşa etme blokları seti.",
-        "sira": 87
+        "sira": 86
     },
     "88": {
         "baslik": "Metal Model Araba Koleksiyonu",
@@ -1141,7 +1128,7 @@ const urunlerVeritabani = {
         "indirim": "%20",
         "resim": "https://images.unsplash.com/photo-1581235720704-06d3acfcb36f?w=300",
         "aciklama": "1:64 ölçekli detaylı döküm model araç.",
-        "sira": 88
+        "sira": 87
     },
     "89": {
         "baslik": "Profesyonel Stres Çarkı Metal",
@@ -1154,7 +1141,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=300",
         "aciklama": "Uzun dönüş süreli rulmanlı metal fidget spinner.",
-        "sira": 89
+        "sira": 88
     },
     "90": {
         "baslik": "Akrobat Uzaktan Kumandalı Dublör Araba",
@@ -1167,7 +1154,7 @@ const urunlerVeritabani = {
         "indirim": "%16",
         "resim": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=300",
         "aciklama": "360 derece dönebilen ışıklı akrobatik araba.",
-        "sira": 90
+        "sira": 89
     },
     "91": {
         "baslik": "Manto ve Figür Oyun Seti",
@@ -1180,7 +1167,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=300",
         "aciklama": "Kurgusal kahramanlar figür seti.",
-        "sira": 91
+        "sira": 90
     },
     "92": {
         "baslik": "Hobi Model Uçak Yapım Kiti",
@@ -1193,7 +1180,7 @@ const urunlerVeritabani = {
         "indirim": "%21",
         "resim": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=300",
         "aciklama": "Dem monte ahşap uçak maketi.",
-        "sira": 92
+        "sira": 91
     },
     "93": {
         "baslik": "Sihirli Sihirbazlık Seti",
@@ -1206,7 +1193,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=300",
         "aciklama": "Çocuklar için kolay öğrenilir sihir numaraları.",
-        "sira": 93
+        "sira": 92
     },
     "94": {
         "baslik": "Satranç ve Dama Takımı Ahşap",
@@ -1219,7 +1206,7 @@ const urunlerVeritabani = {
         "indirim": "%16",
         "resim": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?w=300",
         "aciklama": "Katlanabilir ahşap satranç ve dama seti.",
-        "sira": 94
+        "sira": 93
     },
     "95": {
         "baslik": "Hızlı Bardaklar Refleks Oyunu",
@@ -1232,7 +1219,7 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?w=300",
         "aciklama": "Aile ve çocuk zeka ve hız geliştirme oyunu.",
-        "sira": 95
+        "sira": 94
     },
     "96": {
         "baslik": "Bubble Maker Baloncuk Tabancası",
@@ -1245,7 +1232,7 @@ const urunlerVeritabani = {
         "indirim": "%22",
         "resim": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=300",
         "aciklama": "Işıklı ve otomatik köpük baloncuk makinesi.",
-        "sira": 96
+        "sira": 95
     }
 };
 
