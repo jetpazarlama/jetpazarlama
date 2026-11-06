@@ -62,6 +62,19 @@ const urunlerVeritabani = {
         "indirim": "",
         "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jrajvAZIa92Cw8fnLGqX4Rb8V1DvVVku-MrOtsUMPw&s=10",
         "aciklama": "asgsg",
+        "sira": 6
+    },
+    "6": {
+        "baslik": "22",
+        "kategori": "denemekte",
+        "marka": "Birlik Oyuncak",
+        "stokKodu": "BLK-999",
+        "barkodKodu": "868000000999",
+        "eskiFiyat": "",
+        "fiyat": "311",
+        "indirim": "",
+        "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jrajvAZIa92Cw8fnLGqX4Rb8V1DvVVku-MrOtsUMPw&s=10",
+        "aciklama": "asgasgs",
         "sira": 1
     }
 };
