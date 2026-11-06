@@ -53,7 +53,7 @@ const urunlerVeritabani = {
     },
     "5": {
         "baslik": "ben1",
-        "kategori": "yılmaz",
+        "kategori": "denemekte",
         "marka": "Birlik Oyuncak",
         "stokKodu": "BLK-999",
         "barkodKodu": "868000000999",
