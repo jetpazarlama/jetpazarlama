@@ -16,10 +16,12 @@ const urunlerVeritabani = {
 
 const bosKategorilerDB = {
     "denemekte": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScgFiYkJ8WVnwbvMuaxdxzREhgF_Ds2kPGx4VxsJ2IhA&s=10",
-    "dener2son": "https://www.baktoptan.com/idea/qc/43/myassets/products/397/dgdfgdf.jpg?revision=1753446321"
+    "dener2son": "https://www.baktoptan.com/idea/qc/43/myassets/products/397/dgdfgdf.jpg?revision=1753446321",
+    "yılmaz": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScgFiYkJ8WVnwbvMuaxdxzREhgF_Ds2kPGx4VxsJ2IhA&s=10"
 };
 
 const kategoriSirasiDB = [
     "denemekte",
-    "dener2son"
+    "dener2son",
+    "yılmaz"
 ];
